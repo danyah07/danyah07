@@ -4,9 +4,9 @@
 
 <p>
 
-iOS & Full-Stack Developer | Building apps that put users first
-I’m an Information Technology garduate and iOS developer based in Riyadh, Saudi Arabia.<b>
-Currently in Apple Developer Academy’s Firts year program  where I’ve shipped +5 iOS apps as both developer and UI/UX designer.<b>
+iOS & Full-Stack Developer | Building apps that put users first<b>
+I’m an Information Technology garduate and iOS developer based in Riyadh, Saudi Arabia.<b> <b>
+Currently in Apple Developer Academy’s Firts year program  where I’ve shipped +5 iOS apps as both developer and UI/UX designer.<b> <b>
 I care deeply about clean code, inclusive design, and building products that make a real difference for real people.
 
 </p>
